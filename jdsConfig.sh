@@ -47,7 +47,7 @@
 #
 #	Version: 1.0
 #
-#	- Created by John Kitzmiller, Professional Services Engineer, JAMF Software on July 13 2013
+#	- Created by John Kitzmiller on July 13 2013
 #
 ####################################################################################################
 
